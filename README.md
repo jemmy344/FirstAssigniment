@@ -1,6 +1,5 @@
 # FirstAssigniment
 Description
-This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
 This website must meet accessibility standards. 
 It should have Semantic HTML elements can be found throughout the source code
 
